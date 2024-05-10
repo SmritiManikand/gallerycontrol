@@ -158,13 +158,6 @@ public class MainActivity extends Activity {
 
 ## OUTPUT
 
-
-EMULATOR WITH CODE
-
-
-<img width="959" alt="s1" src="https://github.com/SmritiManikand/gallerycontrol/assets/113674204/9e0a7bf0-0421-4e7e-bfff-d606c1fc9220">
-
-
 GALLERY VIEW
 
 <img width="206" alt="s2" src="https://github.com/SmritiManikand/gallerycontrol/assets/113674204/b21e4897-bcb1-40c1-a999-4eaa492f3215">
